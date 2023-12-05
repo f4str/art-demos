@@ -1,0 +1,7 @@
+adversarial-robustness-toolbox[pytorch_image]
+pytorchyolo
+torch<1.13
+torchvision<0.14
+matplotlib
+jupyter
+ipywidgets
