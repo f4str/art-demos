@@ -4,6 +4,8 @@ torch<1.13
 torchvision<0.14
 tensorflow
 librosa
+transformers
+timm
 matplotlib
 jupyter
 ipywidgets
